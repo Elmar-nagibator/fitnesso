@@ -1,0 +1,125 @@
+.personal{
+
+}
+.personal__title{
+    color: rgb(26, 26, 37);
+    font-family: Inter,sans-serif;
+    font-size: 38px;
+    font-weight: 800;
+    line-height: 110%;
+    text-align: left;
+    margin:32px 0 23px 0;
+}
+.personal__hr{
+    color: rgba(133, 143, 164, 0.2);
+    width: 1410px;
+}
+.personal__block{
+    display: flex;
+    gap: 30px;
+    margin-top: 42px;
+}
+.personal__box{
+    width: 330px;
+    height: 208px;
+    padding: 30px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 15px;
+    transition: background-color 1s ease, transform 0.3s ease;
+}
+.personal__box-title{
+    color: rgb(56, 66, 85);
+    font-family: Inter,sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 120%;
+    text-align: left;
+    margin-bottom: 8px;
+}
+.personal__text{
+    /* txt / button */
+    color: rgb(75, 126, 232);
+    font-family: Inter,sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+}
+.personal__box-text{
+    height: 100px;
+    margin: 8px 0;
+
+}
+.personal__info-text{
+    /* txt/txt */
+    color: rgb(56, 66, 85);
+    font-family: Inter,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 150%;
+    text-align: left;
+}
+.personal__orderid-text{
+    /* txt/txt */
+    font-family: Inter,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 150%;
+    text-align: left;
+    color: rgb(56, 66, 85,)
+
+}
+.personal__price-text{
+    font-family: Inter,sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 150%;
+    text-align: left;
+}
+.personal__box:hover {
+     background-color: red; /* Цвет фона при наведении */
+    transform: scale(1.05);
+ }
+.personal__box:hover .personal__box-title,
+ .personal__box:hover .personal__orderid-text,
+ .personal__box:hover .personal__price-text ,
+.personal__box:hover .personal__info-text
+{
+     color: white; /* Цвет текста при наведении */
+ }
+.personal__block2{
+    width: 300px;
+    height: 172px;
+    border-radius: 15px;
+    margin-top: 50px;
+    padding: 30px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.personal__block-title{
+    color: rgb(56, 66, 85);
+    font-family: Inter,sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 150%;
+    text-align: left;
+}
+.personal__block1-text{
+    color: rgb(56, 66, 85);
+    font-family: Inter,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 150%;
+    text-align: left;
+}
+.personal__block-text{
+    /* txt / button */
+    color: rgb(75, 126, 232);
+    font-family: Inter,sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    text-align: left;
+    margin-top: 50px;
+}
+.tr{
+    margin-top: 28px;
+}

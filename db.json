@@ -1,0 +1,414 @@
+{
+  "users": [
+    {
+      "email": "miko@mail.com",
+      "password": "$2a$10$Pz2dB8w1Ebucv2AsknYYreS7rzFShcNzhG89zMIWCfONZBFOeV506",
+      "name": "Miko",
+      "phone": "+996(996) 99-65-51",
+      "id": 1
+    }
+  ],
+  "clother": [
+    {
+      "id": 1,
+      "title": "Беговая дорожка CardioPower S35",
+      "price": 134000,
+      "priceSale": 34900,
+      "image": "./Shop/1.png",
+      "fast": "1-16",
+      "kg": "50",
+      "color": "black",
+      "point": "Домашние"
+    },
+    {
+      "id": 2,
+      "title": "Беговая дорожка CardioPower T20 Plus",
+      "price": 114700,
+      "priceSale": 134900,
+      "image": "./Shop/2.png",
+      "fast": "1-6",
+      "kg": "90",
+      "color": "black",
+      "point": "Домашние"
+    },
+    {
+      "id": 3,
+      "title": "Беговая дорожка CardioPower S35",
+      "price": 100000,
+      "priceSale": 125000,
+      "image": "./Shop/3.png",
+      "fast": "0.8-10",
+      "kg": "70",
+      "color": "black",
+      "point": "Домашние"
+    },
+    {
+      "id": 4,
+      "title": "Беговая дорожка CardioPower S35",
+      "price": 134900,
+      "priceSale": 34900,
+      "image": "./Shop/4.jpg",
+      "fast": "1-14",
+      "kg": "65",
+      "color": "black",
+      "point": "Домашние"
+    },
+    {
+      "id": 5,
+      "title": "Тренажер Smith SH018",
+      "price": 99900,
+      "priceSale": 111100,
+      "image": "./Shop/5.png",
+      "maxMinKg": "20-23",
+      "color": "black",
+      "kg": "55",
+      "point": "Фитнес клуб"
+    },
+    {
+      "id": 6,
+      "title": "Стенд под регулируемую гантель HYFIT",
+      "price": 130000,
+      "kg": "150",
+      "image": "./Shop/6.png",
+      "maxMinKg": "",
+      "color": "black",
+      "point": "Фитнес клуб"
+    },
+    {
+      "id": 7,
+      "title": "Тренажер Smith SH045 Жим лежа",
+      "price": 89000,
+      "priceSale": 99000,
+      "image": "./Shop/7.png",
+      "kg": "100",
+      "color": "black",
+      "point": "Фитнес клуб"
+    },
+    {
+      "id": 8,
+      "title": "Тренажер Smith SH014 Сгибание ног (стоя)",
+      "price": 175000,
+      "image": "./Shop/8.png",
+      "kg": "74",
+      "color": "black",
+      "point": "Фитнес клуб"
+    },
+    {
+      "id": 9,
+      "title": "Эллиптический тренажер CardioPower Ergo 3",
+      "price": 54900,
+      "priceSale": 67000,
+      "image": "./Shop/9.png",
+      "kg": "80",
+      "color": "black",
+      "point": "Домашние"
+    },
+    {
+      "id": 10,
+      "title": "Эллиптический тренажер CardioPower X25",
+      "price": 31900,
+      "priceSale": 44900,
+      "image": "./Shop/10.png",
+      "kg": "120",
+      "color": "black",
+      "point": "Домашние"
+    },
+    {
+      "id": 11,
+      "title": "Эллиптический тренажер CardioPower Ergo 5",
+      "price": 42000,
+      "priceSale": 45999,
+      "image": "./Shop/11.png",
+      "kg": "130",
+      "color": "black",
+      "point": "Домашние"
+    },
+    {
+      "id": 12,
+      "title": "Эллиптический тренажер CardioPower E410",
+      "price": 65600,
+      "priceSale": 744000,
+      "image": "./Shop/12.png",
+      "kg": "130",
+      "color": "black",
+      "point": "Домашние"
+    },
+    {
+      "id": 13,
+      "title": "Вертикальный велотренажёр CardioPower B35",
+      "price": 94900,
+      "priceSale": 89000,
+      "image": "./Shop/13.png",
+      "kg": "120",
+      "color": "black",
+      "point": "Домашние",
+      "load": 16
+    },
+    {
+      "id": 14,
+      "title": "Вертикальный велотренажёр CardioPower B37",
+      "price": 134900,
+      "priceSale": 34900,
+      "image": "./Shop/14.png",
+      "fast": "1-16",
+      "kg": "110",
+      "color": "black",
+      "point": "Домашние",
+      "load": 16
+    },
+    {
+      "id": 15,
+      "title": "Горизонтальный велотренажер CardioPower R45",
+      "price": 64000,
+      "priceSale": 89000,
+      "image": "./Shop/15.png",
+      "kg": "100",
+      "color": "black",
+      "point": "Домашние",
+      "load": 16
+    },
+    {
+      "id": 16,
+      "title": "Вертикальный велотренажёр CardioPower B40",
+      "price": 50000,
+      "priceSale": 75000,
+      "image": "./Shop/16.png",
+      "kg": "150",
+      "color": "black",
+      "point": "Домашние",
+      "load": 32
+    },
+    {
+      "id": 17,
+      "title": "Регулируемая гантель HYFIT 16 кг",
+      "price": 35000,
+      "priceSale": 41900,
+      "image": "./Shop/17.png",
+      "max-kg": "16-18",
+      "color": "black",
+      "kg": "98",
+      "point": "Фитнес клуб"
+    },
+    {
+      "id": 18,
+      "title": "Набор обрезиненных гантелей Smith DB145-3 (пара)",
+      "price": 134823,
+      "image": "./Shop/18.png",
+      "kg": "27,5-37,5",
+      "color": "black",
+      "point": "Фитнес клуб"
+    },
+    {
+      "id": 19,
+      "title": "Набор обрезиненных фиксированных штанг Smith DB145-BS",
+      "price": 94000,
+      "priceSale": 86000,
+      "image": "./Shop/19.png",
+      "kg": "10-30",
+      "color": "black",
+      "point": "Фитнес клуб"
+    },
+    {
+      "id": 20,
+      "title": "Набор обрезиненных фиксированных штанг Smith DB145-BC",
+      "price": 100000,
+      "priceSale": 111000,
+      "image": "./Shop/20.png",
+      "color": "black",
+      "point": "Фитнес клуб",
+      "kg": "100"
+    },
+    {
+      "id": 21,
+      "title": "Жим ногами для мультистанции Smith BS004LP",
+      "price": 248000,
+      "image": "./Shop/21.png",
+      "max-kg": "105",
+      "color": "black",
+      "point": "Фитнес клуб",
+      "kg": "160"
+    },
+    {
+      "id": 22,
+      "title": "Многофункциональный силовой комплекс CENTR 2 Home Gym Functional Trainer",
+      "price": 349300,
+      "image": "./Shop/22.png",
+      "color": "black",
+      "point": "Фитнес клуб",
+      "kg": "230"
+    },
+    {
+      "id": 23,
+      "title": "Многофункциональный силовой комплекс Inspire M3 Multi-Gym",
+      "price": 122000,
+      "priceSale": 132000,
+      "image": "./Shop/23.png",
+      "color": "black",
+      "point": "Фитнес клуб",
+      "kg": "100"
+    },
+    {
+      "id": 24,
+      "title": "ТМультистанция Bowflex PR1000",
+      "price": 74000,
+      "priceSale": 89000,
+      "image": "./Shop/24.png",
+      "max-kg": "90",
+      "kg": "150",
+      "color": "black",
+      "point": "Фитнес клуб"
+    },
+    {
+      "id": 25,
+      "title": "Мультистанция Smith HG650",
+      "price": 175900,
+      "priceSale": 189900,
+      "image": "./Shop/25.png",
+      "kg": "150",
+      "max-kg": "70",
+      "color": "black",
+      "point": "Фитнес клуб"
+    },
+    {
+      "id": 26,
+      "title": "Массажное кресло Méridien Atlanta (Black)",
+      "price": 149900,
+      "image": "./Shop/26.png",
+      "kg": "180",
+      "color": "grey",
+      "point": "Домашние"
+    },
+    {
+      "id": 27,
+      "title": "Массажное кресло Meridien Minneapolis (Brown + Dark blue)",
+      "price": 419900,
+      "image": "./Shop/27.png",
+      "kg": "175",
+      "color": "blue",
+      "point": "Домашние"
+    },
+    {
+      "id": 28,
+      "title": "Массажное кресло Méridien Hawaii (blue)",
+      "price": 398900,
+      "priceSale": 400000,
+      "image": "./Shop/28.png",
+      "kg": "164",
+      "color": "blue",
+      "point": "Домашние"
+    },
+    {
+      "id": 29,
+      "title": "Инверсионный стол Scholle 01I",
+      "price": 20000,
+      "priceSale": 28000,
+      "image": "./Shop/29.png",
+      "kg": "13",
+      "color": "black",
+      "point": "Домашние"
+    },
+    {
+      "id": 30,
+      "title": "Инверсионный стол Scholle 02Q",
+      "price": 13990,
+      "priceSale": 15000,
+      "image": "./Shop/30.png",
+      "kg": "19",
+      "color": "black",
+      "point": "Домашние"
+    },
+    {
+      "id": 31,
+      "title": "Массажное кресло Meridien Calabria",
+      "price": 169900,
+      "priceSale": 17500,
+      "image": "./Shop/31.jpg",
+      "kg": "120",
+      "color": "white + grey",
+      "point": "Домашние"
+    },
+    {
+      "id": 32,
+      "title": "Батут Eclipse Inspire 6 FT",
+      "price": 14900,
+      "priceSale": 16000,
+      "image": "./Shop/32.png",
+      "kg": "62",
+      "color": "black",
+      "point": "Домашние"
+    },
+    {
+      "id": 33,
+      "title": "Ролик для пресса LiveUp LS3160B",
+      "price": 690,
+      "priceSale": 720,
+      "image": "./Shop/33.png",
+      "kg": "1.2",
+      "color": "black + blue",
+      "point": "Домашние"
+    },
+    {
+      "id": 34,
+      "title": "Скакалка LiveUp LS3118F с мягкими ручками",
+      "price": 310,
+      "image": "./Shop/34.png",
+      "kg": "0.200",
+      "color": "green",
+      "point": "Домашние"
+    },
+    {
+      "id": 35,
+      "title": "Кистевой эспандер LiveUp LS3101",
+      "price": 250,
+      "image": "./Shop/35.png",
+      "kg": "0.150",
+      "color": "grey",
+      "point": "Домашние"
+    },
+    {
+      "id": 36,
+      "title": "Диск для штанги Smith PUWP12-2,5",
+      "price": 1830,
+      "image": "./Shop/36.png",
+      "kg": "2.5",
+      "color": "black",
+      "point": "фитнес клуб"
+    },
+    {
+      "id": 37,
+      "title": "Набор регулируемый штанга+гантель HYFIT",
+      "price": 27900,
+      "image": "./Shop/37.png",
+      "kg": "40",
+      "color": "black",
+      "point": "фитнес клуб"
+    },
+    {
+      "id": 38,
+      "title": "Комплекс для функциональнального тренинга Smith DH013H",
+      "price": 437900,
+      "image": "./Shop/38.png",
+      "kg": "303",
+      "color": "black + red",
+      "point": "фитнес клуб"
+    },
+    {
+      "id": 39,
+      "title": "Комплекс для функциональнального тренинга Smith DH013G",
+      "price": 532900,
+      "image": "./Shop/39.png",
+      "kg": "424",
+      "color": "black + red",
+      "point": "фитнес клуб"
+    },
+    {
+      "id": 40,
+      "title": "Комплекс для функциональнального тренинга Smith DH013D",
+      "price": 1147700,
+      "image": "./Shop/40.png",
+      "kg": "835",
+      "color": "black + red",
+      "point": "фитнес клуб"
+    }
+  ]
+}

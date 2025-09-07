@@ -1,0 +1,119 @@
+.placing{
+    padding: 20px 100px;
+}
+.box__block{
+    display: flex;
+}
+
+.placing__box{
+    display: flex;
+    width: 800px;
+}
+
+.placing__block1
+{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    width: 350px;
+    margin: 50px;
+}
+.placing__block1-title{
+    /* h2/h2 desktop */
+    color: rgb(26, 26, 37);
+    font-family: Inter,sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 110%;
+    text-align: center;
+}
+.css-pl8gqh-MuiStack-root {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    margin-left: 10px;
+}
+.css-13r4j3i{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+.placing__input1 {
+    margin-left: 13px;
+}
+.placing__input1{
+    color: rgb(125, 125, 125);
+    font-size: 15px;
+    line-height: 118%;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.placing__btn{
+    width: 300px;
+    height: 50px;
+    border-radius: 4px;
+    background: rgb(245, 59, 73);
+    color: rgb(255, 255, 255);
+    font-family: Inter, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    text-align: center;
+    text-transform: uppercase;
+    border: none;
+}
+.placing__block__2{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    max-width: 305px;
+    margin-top: 150px;
+    margin-left: 80px;
+}
+.css-xrmkj5-MuiInputBase-root-MuiOutlinedInput-root{
+    width: 300px;
+    margin-right: 13px;
+}
+.placing__block2-title{
+    /* h2/h2 desktop */
+    color: rgb(26, 26, 37);
+    font-family: Inter,sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 110%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.placing__block2-text{
+    color: rgb(125, 125, 125);
+    font-size: 15px;
+    line-height: 118%;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin-bottom: 25px;
+    text-align: start;
+}
+.ffd{
+    flex-wrap: nowrap;
+}
+.placing__span{
+    color: #f53b49;
+}
+.card-block{
+    height: 250px;
+    display: flex;
+    margin-left: 100px;
+}
+.fd{
+    margin-top: 20px;
+}
+.errors {
+    border-bottom: 2px solid #FF4D4D;
+}

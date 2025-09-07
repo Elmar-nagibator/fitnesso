@@ -1,0 +1,39 @@
+.product{
+}
+
+.catalog__path{
+    display: flex;
+    flex-wrap: wrap;
+
+
+
+}
+.filter{
+    display: flex;
+    column-gap: 10px;
+    align-items: center;
+    margin-top: 10px;
+}
+.product__path{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.select{
+    background: white;
+
+    color: rgb(245, 59, 73);
+    border:1px solid rgb(245, 59, 73) ;
+    padding: 5px;
+    border-radius: 4px;
+    transition: 0.4s;
+}
+.select:hover{
+    background: rgb(26, 26, 37);
+    color: white;
+    border: none;
+}
+
+.ssa{
+    display: none;
+}

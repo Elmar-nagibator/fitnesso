@@ -1,0 +1,88 @@
+.productCard-text{
+    color: rgb(26, 26, 37);
+    font-family: Inter,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 150%;
+    text-align: left;
+    margin-top: 7px;
+}
+.productCard-img{
+    width: 280px;
+    height: 280px;
+}
+.productCard-reiting{
+    color: rgb(144, 156, 181);
+    font-family: Inter,sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 15px;
+    text-align: left;
+    margin-top: 7px;
+}
+.productCard-price{
+    color: rgb(26, 26, 37);
+    font-family: Inter,sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 135.94%;
+    text-align: left;
+
+}
+.productCard-not-price{
+    color: rgb(133, 143, 164);
+    font-family: Inter,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 135.94%;
+    text-align: left;
+    text-decoration-line: line-through;
+}
+.productCard-block{
+    width: 300px;
+    height: 155px;
+    z-index: 6;
+
+}
+.productCard{
+    border-radius: 8px;
+    padding-left: 20px;
+    background: rgb(255, 255, 255);
+    margin-right: 30px;
+    transition: 0.3s;
+}
+.productCard:hover{
+    box-shadow: 1px 1px 32px 9px rgba(198,194,194,0.75);
+
+}
+.productCard-green{
+    color: rgb(47, 197, 9);
+    font-family: Inter,sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 15px;
+    text-align: left;
+}
+.productCard-box{
+    display: flex;
+    align-items: center;
+    column-gap: 35px;
+    margin-top: 10px;
+}
+.productCard-btn{
+    width: 121px;
+    height: 49px;
+    border-radius: 4px;
+    background: rgb(245, 59, 73);
+    color: rgb(255, 255, 255);
+    font-family: Inter,sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    text-align: left;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 8px;
+}

@@ -1,0 +1,35 @@
+.fat{
+    padding: 50px;
+    background: rgb(26, 26, 37);
+}
+.fat__title{
+    color: rgb(255, 255, 255);
+    font-family: Inter,sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 110%;
+    text-align: left;
+    margin:60px 0  30px 0 ;
+}
+.fat__box{
+    display: flex;
+    gap: 30px;
+}
+.fat__img{
+    width: 690px;
+
+}
+.fat__btn{
+    color: rgb(255, 255, 255);
+    font-family: Inter,sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    background: rgb(26, 26, 37);
+    width: 165px;
+    height: 42px;
+    margin: 30px 0 100px 0;
+    border: solid 1px white;
+    border-radius: 5px;
+    text-align: center;
+}

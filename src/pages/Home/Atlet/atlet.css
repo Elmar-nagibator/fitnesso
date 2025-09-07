@@ -1,0 +1,55 @@
+.home-fit{
+    background: url("../../../assets/home-fit.jpg") center/cover no-repeat;
+    width: 670px;
+    height: 700px;
+    border-radius: 8px;
+    transition: 0.3s;
+
+}
+.atlet{
+    margin-bottom: 50px;
+}
+.home-fit:hover{
+    box-shadow: 10px 10px 5px 0 rgba(236,189,189,0.75);
+    transform: scale(1.01);
+
+}
+.club-fit{
+    background: url("../../../assets/club-fit.jpg")center/cover no-repeat;
+    width: 670px;
+    height: 700px;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+.club-fit:hover{
+    box-shadow: 10px 10px 5px 0 rgba(236,189,189,0.75);
+    transform: scale(1.01);
+
+}
+.atlet-block{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.atlet-fit-text{
+padding-top: 50px;
+    padding-left: 50px;
+    font-family: Inter,sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 120%;
+    text-align: left;
+    color: rgb(26, 26, 37);
+
+}
+.atlet-club-text{
+    color: rgb(255, 255, 255);
+    padding-top: 50px;
+    padding-left: 50px;
+    font-family: Inter,sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 120%;
+    text-align: left;
+}

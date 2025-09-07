@@ -1,0 +1,79 @@
+.buy-title{
+    color: rgb(56, 66, 85);
+    font-family: Inter,sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 110%;
+    text-align: left;
+    margin-top: 30px;
+}
+.buy-block{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+.buy-block-box{
+    background: white;
+    padding: 40px;
+    width: 705px;
+    height: 350px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+.buy-block-title{
+    color: rgb(56, 66, 85);
+    font-family: Inter,sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 150%;
+    text-align: left;
+}
+.buy-block-num{
+    color: rgb(56, 66, 85);
+    font-family: Inter,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 150%;
+    text-align: left;
+    margin-top: 20px;
+}
+.buy-block-text{
+    color: rgb(56, 66, 85);
+    font-family: Inter,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 150%;
+    text-align: left;
+    margin-top: 20px;
+}
+.buy-global-col{
+    width: 330px;
+    height: 194px;
+    background: white;
+    padding: 15px;
+    margin-top: 25px;
+    border-radius: 8px;
+}
+.buy-global-title{
+    color: rgb(56, 66, 85);
+    font-family: Inter,sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 120%;
+    text-align: left;
+}
+.buy-global-text{
+    margin-top: 20px;
+    color: rgb(56, 66, 85);
+    font-family: Inter,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 150%;
+    text-align: left;
+}
+.buy-global{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 20px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,26 @@
+.main-container{
+    height: 500px;
+    width: 1410px;
+    display: flex;
+    align-items: center;
+    /*margin: 0 auto;*/
+    margin-bottom: 30px;
+}
+.window{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+.all-pages-container{
+    height: 100%;
+    display: flex;
+
+    transition: translate;
+    transition-property: transform;
+    transition-duration: 300ms;
+    transition-timing-function: ease-in-out;
+    padding: 30px 0 20px 0;
+}
+.arrow{
+    cursor: pointer;
+}
